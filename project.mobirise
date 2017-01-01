@@ -77,15 +77,45 @@
                 "thumb": "@PROJECT_PATH@/assets/images/h9i4qmjikw772-800x727-75.png",
                 "image": "@PROJECT_PATH@/assets/images/h9i4qmjikw772.gif",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Love ya",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/giphy-tumblr-800x531-94.png",
+                "image": "@PROJECT_PATH@/assets/images/giphy-tumblr.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Unfortunate",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/giphy-tumblr-2-800x800-19.png",
+                "image": "@PROJECT_PATH@/assets/images/giphy-tumblr-2.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "LOL",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/milk-out-noze-800x450-33.png",
+                "image": "@PROJECT_PATH@/assets/images/milk-out-noze.gif",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": false,
             "filter": true,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
           "_anchor": "gallery4-1",
